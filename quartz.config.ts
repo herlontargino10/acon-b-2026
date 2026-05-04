@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pt-BR",
     baseUrl: "aconb26.digital",
-    ignorePatterns: ["private", "templates", ".obsidian", "Config", "Aulas/Meteorologia-Leonardo-Diogo/Resumos", "Aulas/Combate-Incêndio-Avançado-Amadeu/Resumos", "Aulas/Inglês-Técnico-Marítimo-Jander/Resumos", "Aulas/Legislação-Marítima-Anthony/Resumos", "Aulas/Prática-Procedimentos-Passadiço-M-Coelho/Resumos", "Aulas/Navegação-1-Franco/Resumos"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Config", "Aulas/Meteorologia-Leonardo-Diogo/Resumos", "Aulas/Combate-Incêndio-Avançado-Amadeu/Resumos", "Aulas/Inglês-Técnico-Marítimo-Jander/Resumos", "Aulas/Legislação-Marítima-Anthony/Resumos", "Aulas/Prática-Procedimentos-Passadiço-M-Coelho/Resumos", "Aulas/Navegação-1-Franco/Resumos", "Aulas/Navegação-1-Franco/Exercícios"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
