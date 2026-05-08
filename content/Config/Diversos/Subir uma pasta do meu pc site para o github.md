@@ -13,7 +13,7 @@ git init
 git add .
 git commit -m "Atualização"
 git branch -M main
-git remote add origin https://github.com/PortifolioCraft72/template-nutricionista-marcela-novaes.git
+git remote add origin https://github.com/herlontargino10/acon-b26.git
 git push -u origin main
 
 
