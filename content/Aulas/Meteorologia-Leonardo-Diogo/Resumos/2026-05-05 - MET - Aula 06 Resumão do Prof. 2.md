@@ -1,6 +1,6 @@
+*Professor fez a revisão para a prova. **Esse resumo já está no ANKI***
 
 ---
-Professor fez a revisão para a prova. 
 # 📘 PERGUNTAS E RESPOSTAS
 
 ### Pergunta 1

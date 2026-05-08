@@ -978,64 +978,64 @@ Nova condensação → mais calor latente → mais ascensão
 
 ## Flashcards para Anki
 
-| Frente | Verso |
-|---|---|
-| O que é calor sensível? | Quantidade de energia necessária para variar a temperatura de uma parcela em 1°C, sem mudança de estado físico |
-| O que é calor latente? | Energia associada à mudança de estado físico (ex: evaporação), sem variação de temperatura |
-| Qual tipo de calor está envolvido na evaporação da água? | Calor latente |
-| Durante a evaporação, a temperatura varia? | Não — a temperatura se estabiliza enquanto o estado muda |
-| Calor sensível da água vs. calor sensível do ar | Água tem ~4 vezes mais calor sensível que o ar |
-| Qual tipo de calor reforça a convecção dentro da nuvem? | Calor latente — liberado durante a condensação do vapor |
-| O que é umidade absoluta? | Quantidade de vapor de água por unidade de volume (g/m³) |
-| A umidade absoluta tem unidade de medida? | Sim — g/m³ |
-| O que é umidade relativa? | Razão entre vapor existente e vapor máximo para saturação × 100% |
-| A umidade relativa tem unidade? | Não — é uma razão (expressa em %) |
-| O que acontece com a UR quando a temperatura sobe (sem adicionar vapor)? | A UR diminui, pois a capacidade máxima de conter vapor aumenta |
-| Qual é o valor de UR na saturação? | 100% |
-| O que é ponto de orvalho? | Temperatura à qual a parcela de ar atinge saturação (UR = 100%) com o vapor existente |
-| Condições para formação de nevoeiro (3) | T ≤ ponto de orvalho; vento fraco; atmosfera estável |
-| Nevoeiro se forma em atmosfera estável ou instável? | Estável |
-| Por que o nevoeiro dissipa pela manhã? | O sol aquece o ar → maior capacidade de vapor → UR cai < 100% → gotículas evaporam |
-| O que é nevoeiro de radiação? | Nevoeiro formado pelo resfriamento noturno da superfície por perda de radiação de onda longa |
-| O que é nevoeiro de advecção? | Nevoeiro formado pelo transporte horizontal de ar úmido sobre superfície mais fria |
-| O que é resfriamento adiabático? | Resfriamento de uma parcela de ar em ascensão por expansão (queda de pressão), sem troca de calor com o exterior |
-| Taxa aproximada de resfriamento adiabático | ~6,5°C por km de altitude |
-| Quatro formas de desencadear convecção | Aquecimento superficial; encontro de massas de ar; barreira física; convergência de ventos |
-| O que é advecção? | Transporte horizontal de propriedades meteorológicas por deslocamento de massas de ar |
-| Diferença entre advecção e convecção | Advecção = horizontal; Convecção = vertical |
-| Direção do vento na brisa diurna | Mar → Terra (terra mais quente de dia) |
-| Direção do vento na brisa noturna | Terra → Mar (terra mais fria à noite) |
-| Brisa terrestre = qual tipo de brisa? | Brisa noturna |
-| Brisa marítima = qual tipo de brisa? | Brisa diurna |
-| Relação entre temperatura e densidade do ar | Temperatura alta → menor densidade; Temperatura baixa → maior densidade |
-| Relação entre densidade e pressão atmosférica | Maior densidade → maior pressão (coluna de ar mais pesada) |
-| De onde para onde sopra o vento? | Da alta pressão para a baixa pressão |
-| Sentido de circulação na alta pressão no Hemisfério Norte | Horário (↻) |
-| Sentido de circulação na alta pressão no Hemisfério Sul | Anti-horário (↺) |
-| Sentido de circulação na baixa pressão no Hemisfério Norte | Anti-horário (↺) |
-| Sentido de circulação na baixa pressão no Hemisfério Sul | Horário (↻) |
-| O cavado aponta para onde? | Para o Equador |
-| A crista aponta para onde? | Para os Polos (Norte ou Sul) |
-| Cavado está associado a que tipo de incursão? | Incursão de ar frio em direção às regiões mais quentes |
-| Crista está associada a que tipo de incursão? | Incursão de ar quente em direção às regiões mais frias |
-| Qual célula de circulação é responsável pelas Altas Semi-Permanentes? | Célula de Ferrel |
-| O que são os ventos alísios? | Ventos de superfície da Célula de Hadley que sopram em direção ao Equador |
-| O Efeito de Coriolis é uma força ou um efeito? | Efeito aparente — não é uma força real |
-| Para quais distâncias o Efeito de Coriolis é relevante? | Grandes distâncias |
-| Efeito de Coriolis no Hemisfério Sul: desvia para qual lado? | Para a esquerda |
-| Efeito de Coriolis no Hemisfério Norte: desvia para qual lado? | Para a direita |
-| O que é a ZCIT? | Zona de Convergência Intertropical — faixa equatorial de baixa pressão e convecção intensa |
-| Fontes que sustentam a ZCIT | Ventos alísios (convergência) + máxima incidência perpendicular de energia solar |
-| O que é o Equador Térmico? | Faixa de máxima incidência solar; oscila sazonalmente (não é fixo no Equador geográfico) |
-| O que é a Carta Sinótica? | Documento com informações meteorológicas de superfície em único nível e instante de tempo |
-| A Carta Sinótica permite fazer previsão de tempo? | Não — apenas diagnostica o estado atual |
-| O que é Cirrus? | Nuvem de alta altitude, composta por cristais de gelo, associada à corrente de jato de alto nível |
-| Nome popular do Cirrus | Rabo de galo |
-| O que causa o "rabo de galo" no topo do CB? | Correntes de jato de alta velocidade que esgarcam o topo da nuvem |
-| O que é Cumulonimbus (CB)? | Nuvem de grande desenvolvimento vertical, base baixa, associada a tempestades intensas |
-| O que define se uma nuvem é baixa, média ou alta? | A altitude da BASE da nuvem |
-| A saturação (UR = 100%) garante chuva? | Não — apenas garante condensação; precipitação requer processos adicionais |
-| O que é o NCL? | Nível de Condensação por Levantamento — altitude onde a parcela ascendente atinge saturação e começa a formar nuvem |
+| Frente                                                                   | Verso                                                                                                               |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| O que é calor sensível?                                                  | Quantidade de energia necessária para variar a temperatura de uma parcela em 1°C, sem mudança de estado físico      |
+| O que é calor latente?                                                   | Energia associada à mudança de estado físico (ex: evaporação), sem variação de temperatura                          |
+| Qual tipo de calor está envolvido na evaporação da água?                 | Calor latente                                                                                                       |
+| Durante a evaporação, a temperatura varia?                               | Não — a temperatura se estabiliza enquanto o estado muda                                                            |
+| Calor sensível da água vs. calor sensível do ar                          | Água tem ~4 vezes mais calor sensível que o ar                                                                      |
+| Qual tipo de calor reforça a convecção dentro da nuvem?                  | Calor latente — liberado durante a condensação do vapor                                                             |
+| O que é umidade absoluta?                                                | Quantidade de vapor de água por unidade de volume (g/m³)                                                            |
+| A umidade absoluta tem unidade de medida?                                | Sim — g/m³                                                                                                          |
+| O que é umidade relativa?                                                | Razão entre vapor existente e vapor máximo para saturação × 100%                                                    |
+| A umidade relativa tem unidade?                                          | Não — é uma razão (expressa em %)                                                                                   |
+| O que acontece com a UR quando a temperatura sobe (sem adicionar vapor)? | A UR diminui, pois a capacidade máxima de conter vapor aumenta                                                      |
+| Qual é o valor de UR na saturação?                                       | 100%                                                                                                                |
+| O que é ponto de orvalho?                                                | Temperatura à qual a parcela de ar atinge saturação (UR = 100%) com o vapor existente                               |
+| Condições para formação de nevoeiro (3)                                  | T ≤ ponto de orvalho; vento fraco; atmosfera estável                                                                |
+| Nevoeiro se forma em atmosfera estável ou instável?                      | Estável                                                                                                             |
+| Por que o nevoeiro dissipa pela manhã?                                   | O sol aquece o ar → maior capacidade de vapor → UR cai < 100% → gotículas evaporam                                  |
+| O que é nevoeiro de radiação?                                            | Nevoeiro formado pelo resfriamento noturno da superfície por perda de radiação de onda longa                        |
+| O que é nevoeiro de advecção?                                            | Nevoeiro formado pelo transporte horizontal de ar úmido sobre superfície mais fria                                  |
+| O que é resfriamento adiabático?                                         | Resfriamento de uma parcela de ar em ascensão por expansão (queda de pressão), sem troca de calor com o exterior    |
+| Taxa aproximada de resfriamento adiabático                               | ~6,5°C por km de altitude                                                                                           |
+| Quatro formas de desencadear convecção                                   | Aquecimento superficial; encontro de massas de ar; barreira física; convergência de ventos                          |
+| O que é advecção?                                                        | Transporte horizontal de propriedades meteorológicas por deslocamento de massas de ar                               |
+| Diferença entre advecção e convecção                                     | Advecção = horizontal; Convecção = vertical                                                                         |
+| Direção do vento na brisa diurna                                         | Mar → Terra (terra mais quente de dia)                                                                              |
+| Direção do vento na brisa noturna                                        | Terra → Mar (terra mais fria à noite)                                                                               |
+| Brisa terrestre = qual tipo de brisa?                                    | Brisa noturna                                                                                                       |
+| Brisa marítima = qual tipo de brisa?                                     | Brisa diurna                                                                                                        |
+| Relação entre temperatura e densidade do ar                              | Temperatura alta → menor densidade; Temperatura baixa → maior densidade                                             |
+| Relação entre densidade e pressão atmosférica                            | Maior densidade → maior pressão (coluna de ar mais pesada)                                                          |
+| De onde para onde sopra o vento?                                         | Da alta pressão para a baixa pressão                                                                                |
+| Sentido de circulação na alta pressão no Hemisfério Norte                | Horário (↻)                                                                                                         |
+| Sentido de circulação na alta pressão no Hemisfério Sul                  | Anti-horário (↺)                                                                                                    |
+| Sentido de circulação na baixa pressão no Hemisfério Norte               | Anti-horário (↺)                                                                                                    |
+| Sentido de circulação na baixa pressão no Hemisfério Sul                 | Horário (↻)                                                                                                         |
+| O cavado aponta para onde?                                               | Para o Equador                                                                                                      |
+| A crista aponta para onde?                                               | Para os Polos (Norte ou Sul)                                                                                        |
+| Cavado está associado a que tipo de incursão?                            | Incursão de ar frio em direção às regiões mais quentes                                                              |
+| Crista está associada a que tipo de incursão?                            | Incursão de ar quente em direção às regiões mais frias                                                              |
+| Qual célula de circulação é responsável pelas Altas Semi-Permanentes?    | Célula de Ferrel                                                                                                    |
+| O que são os ventos alísios?                                             | Ventos de superfície da Célula de Hadley que sopram em direção ao Equador                                           |
+| O Efeito de Coriolis é uma força ou um efeito?                           | Efeito aparente — não é uma força real                                                                              |
+| Para quais distâncias o Efeito de Coriolis é relevante?                  | Grandes distâncias                                                                                                  |
+| Efeito de Coriolis no Hemisfério Sul: desvia para qual lado?             | Para a esquerda                                                                                                     |
+| Efeito de Coriolis no Hemisfério Norte: desvia para qual lado?           | Para a direita                                                                                                      |
+| O que é a ZCIT?                                                          | Zona de Convergência Intertropical — faixa equatorial de baixa pressão e convecção intensa                          |
+| Fontes que sustentam a ZCIT                                              | Ventos alísios (convergência) + máxima incidência perpendicular de energia solar                                    |
+| O que é o Equador Térmico?                                               | Faixa de máxima incidência solar; oscila sazonalmente (não é fixo no Equador geográfico)                            |
+| O que é a Carta Sinótica?                                                | Documento com informações meteorológicas de superfície em único nível e instante de tempo                           |
+| A Carta Sinótica permite fazer previsão de tempo?                        | Não — apenas diagnostica o estado atual                                                                             |
+| O que é Cirrus?                                                          | Nuvem de alta altitude, composta por cristais de gelo, associada à corrente de jato de alto nível                   |
+| Nome popular do Cirrus                                                   | Rabo de galo                                                                                                        |
+| O que causa o "rabo de galo" no topo do CB?                              | Correntes de jato de alta velocidade que esgarcam o topo da nuvem                                                   |
+| O que é Cumulonimbus (CB)?                                               | Nuvem de grande desenvolvimento vertical, base baixa, associada a tempestades intensas                              |
+| O que define se uma nuvem é baixa, média ou alta?                        | A altitude da BASE da nuvem                                                                                         |
+| A saturação (UR = 100%) garante chuva?                                   | Não — apenas garante condensação; precipitação requer processos adicionais                                          |
+| O que é o NCL?                                                           | Nível de Condensação por Levantamento — altitude onde a parcela ascendente atinge saturação e começa a formar nuvem |
 
 ---
 

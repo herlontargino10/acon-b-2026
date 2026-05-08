@@ -1,9 +1,7 @@
-# Revisão Meteorologia — Unidades 5 e 6
-**Data:** 09/05/2026
-**Professor:** Revisão feita pelo professor em formato de perguntas e respostas
+*Revisão feita pelo professor em formato de perguntas e respostas*
+*Continua no resumão 3.1*
 
 ---
-
 ## Unidade 5 — Sistemas Sinóticos
 
 ### Pergunta 1
@@ -185,17 +183,5 @@ R: Ondas longas e regulares, formadas por ventos distantes. Causa as ressacas.
 
 **R:**
 ![[Pasted image 20260507201327.png]]
-
-
----
-
-## Macetes
-
-- **Cirrus = Rabo de galo** → sinal de que um furacão pode estar se aproximando.
-- **Cavado = ar frio** (não confundir com ar quente).
-- **Landfall** = quando o furacão toca a terra.
-- **Vagas irregulares** = dentro da área do furacão / **Marulhos** = fora da área.
-- **Não cruzar a proa do furacão** → risco de ser arrastado para dentro do sistema.
-- **Superfície frontal ≠ Frente**: a superfície frontal é toda a extensão vertical (coluna atmosférica); a frente é apenas o contato com a superfície da Terra.
 
 ---
