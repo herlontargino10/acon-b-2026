@@ -136,13 +136,13 @@ A evaporação da água **retira** calor latente da superfície do mar (resfrian
 
 ### 2.4 Comparação: Calor Sensível × Calor Latente
 
-| Característica | Calor Sensível | Calor Latente |
-|---|---|---|
-| O que acontece com a temperatura? | Varia (sobe ou desce) | Permanece estável |
-| O que acontece com o estado físico? | Não muda | Muda (sólido→líquido→vapor ou inverso) |
-| Quando ocorre? | Aquecimento/resfriamento normal | Mudança de estado (evaporação, condensação, fusão) |
-| Papel na meteorologia | Diferencia aquecimento de terra e mar | Principal mecanismo de transporte e liberação de calor |
-| Exemplo | Panela de água aquecendo de 20°C a 99°C | Panela de água a 100°C virando vapor |
+| Característica                      | Calor Sensível                          | Calor Latente                                          |
+| ----------------------------------- | --------------------------------------- | ------------------------------------------------------ |
+| O que acontece com a temperatura?   | Varia (sobe ou desce)                   | Permanece estável                                      |
+| O que acontece com o estado físico? | Não muda                                | Muda (sólido→líquido→vapor ou inverso)                 |
+| Quando ocorre?                      | Aquecimento/resfriamento normal         | Mudança de estado (evaporação, condensação, fusão)     |
+| Papel na meteorologia               | Diferencia aquecimento de terra e mar   | Principal mecanismo de transporte e liberação de calor |
+| Exemplo                             | Panela de água aquecendo de 20°C a 99°C | Panela de água a 100°C virando vapor                   |
 
 ---
 

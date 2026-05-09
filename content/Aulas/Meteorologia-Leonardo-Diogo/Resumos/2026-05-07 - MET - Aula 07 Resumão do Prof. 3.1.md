@@ -1,5 +1,6 @@
 *Continuação do resumo 3 (Revisão dada no mesmo dia)*
-
+No ANKI? 
+ 
 ---
 
 ## Unidade 5 — Sistemas Sinóticos (continuação)

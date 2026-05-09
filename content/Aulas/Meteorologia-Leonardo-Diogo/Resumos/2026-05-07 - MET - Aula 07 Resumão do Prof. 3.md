@@ -1,5 +1,5 @@
 *Revisão feita pelo professor em formato de perguntas e respostas*
-*Continua no resumão 3.1*
+No ANKI? **SIM**
 
 ---
 ## Unidade 5 — Sistemas Sinóticos
