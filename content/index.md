@@ -17,6 +17,9 @@ title: Início
 - [[Aulas/Inglês-Técnico-Marítimo-Jander|ITM]]
 - [[Aulas/Prática-Procedimentos-Passadiço-M-Coelho|PRP]]
 - [[Aulas/Navegação-1-Franco/Apostilas/Material de apoio|NAV-1]]
+- [[Aulas/Estabilidade-1-Quintana/Apostilas/Material de apoio|EST-1]]
+- [[Aulas/Cálculo-1-Franciano/Apostilas/Material de apoio|CAL-1]]
+- [[Aulas/Física-1-Macedo/Apostilas/Material de apoio|FIS-1]]
 
 ## 📅 Cronograma
 
